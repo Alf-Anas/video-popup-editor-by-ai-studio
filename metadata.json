@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Video Popup Editor",
+  "description": "Edit tracking videos by adding pausing image popups at configured timestamps and export the final video to MP4",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
