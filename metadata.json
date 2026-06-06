@@ -1,6 +1,6 @@
 {
   "name": "Remix: Video Popup Editor",
-  "description": "Edit tracking videos by adding pausing image popups at configured timestamps and export the final video to MP4",
+  "description": "An interactive HTML5 video overlay editor to add pausing image popups at custom timestamps and compile/export the final video to MP4/WebM with burned-in overlays client-side.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
